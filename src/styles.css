@@ -66,8 +66,9 @@
 }
 .logo {
   position: absolute;
-  top: 20px; /* Adjust this value to adjust the distance from the top */
+  top: 15px; /* Adjust this value to adjust the distance from the top */
   left: 20px; /* Adjust this value to adjust the distance from the left */
   width: 100px; /* Adjust the width of the logo as needed */
-  height: auto; /* Maintain aspect ratio */
+  height: 85px; /* Maintain aspect ratio */
+
 }
