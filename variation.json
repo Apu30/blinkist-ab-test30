@@ -1,0 +1,12 @@
+{
+    "control": {
+      "title": "Explore Books on Blinkist",
+      "content": "Dive into world-class titles in 15 min or less",
+      "image": "/images/control-variation.jpg"
+    },
+    "test": {
+      "title": "Unlock Big Ideas",
+      "content": "Join millions who love learning with Blinkist",
+      "image": "/images/test-variation.jpg"
+    }
+  }
